@@ -12,9 +12,9 @@
 <p>Content will be stored in "flat-files." An administrator will be able to activate each flat-file drawer using queries. Queries will be based primarily on, but not limited to, taxonomy. Objects can be individually eliminated and arranged from queries.</p>
 <p>The user will design the menu view based on the query results and number of queries they intend to use.</p>
 
-<p>Menu Example 1. The following describes a project site for the early stages of destilifes.com where each PROJECT is a different web application:</p> 
+<p><strong>Menu Example 1.</strong> The following describes a project site for the early stages of destilifes.com where each PROJECT is a different web application:</p> 
 <p><strong>HOME | PROJECT 1 | PROJECT 2 | PROJECT 3| PROJECT 4 | CONTACT</strong></p>
-<p>Menu Example 2. The following describes the menu of a project site in the mature stages of destillifes.com where, along with PROJECTs, the authors wish to have other content queries (drawers) represented: </p>
+<p><strong>Menu Example 2.</strong> The following describes the menu of a project site in the mature stages of destillifes.com where, along with PROJECTs, the authors wish to have other content queries (drawers) represented: </p>
 <p><strong>HOME | PROJECTS </strong>: Project1 Project2 Project 3  <strong>| SCHEMATICS </strong>: Project1_Drawings Project2_Sitemap <strong>| CONTACT</strong></p>
 
 <h3>CONTENT FIELDS</h3>
